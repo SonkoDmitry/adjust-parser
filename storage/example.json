@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Trustlead",
+        "kpis": {
+            "clicks": "223",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "16",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "14",
+            "waus": "72",
+            "maus": "650"
+        }
+    },
+    {
+        "name": "Vmetro",
+        "kpis": {
+            "clicks": "710",
+            "installs": "9",
+            "click_conversion_rate": "0.0127",
+            "reattributions": "0",
+            "sessions": "34",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "32",
+            "waus": "196",
+            "maus": "688"
+        }
+    },
+    {
+        "name": "Adsup",
+        "kpis": {
+            "clicks": "39",
+            "installs": "7",
+            "click_conversion_rate": "0.1795",
+            "reattributions": "0",
+            "sessions": "9",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "8",
+            "waus": "13",
+            "maus": "57"
+        }
+    },
+    {
+        "name": "TradeTracker",
+        "kpis": {
+            "clicks": "0",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "0",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "0",
+            "waus": "0",
+            "maus": "1"
+        }
+    },
+    {
+        "name": "Facebook Installs",
+        "kpis": {
+            "clicks": "0",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "63",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "60",
+            "waus": "599",
+            "maus": "2194"
+        }
+    },
+    {
+        "name": "Adsup2",
+        "kpis": {
+            "clicks": "0",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "45",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "42",
+            "waus": "288",
+            "maus": "2067"
+        }
+    },
+    {
+        "name": "Organic",
+        "kpis": {
+            "clicks": "0",
+            "installs": "129",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "554",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "517",
+            "waus": "3910",
+            "maus": "14794"
+        }
+    },
+    {
+        "name": "ad1",
+        "kpis": {
+            "clicks": "139",
+            "installs": "5",
+            "click_conversion_rate": "0.036",
+            "reattributions": "0",
+            "sessions": "16",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "14",
+            "waus": "132",
+            "maus": "399"
+        }
+    },
+    {
+        "name": "Slava",
+        "kpis": {
+            "clicks": "0",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "0",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "0",
+            "waus": "0",
+            "maus": "5"
+        }
+    },
+    {
+        "name": "Datalead",
+        "kpis": {
+            "clicks": "5",
+            "installs": "2",
+            "click_conversion_rate": "0.4",
+            "reattributions": "0",
+            "sessions": "201",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "187",
+            "waus": "2236",
+            "maus": "7680"
+        }
+    },
+    {
+        "name": "Kirill",
+        "kpis": {
+            "clicks": "1",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "79",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "75",
+            "waus": "438",
+            "maus": "2800"
+        }
+    },
+    {
+        "name": "Mobio2",
+        "kpis": {
+            "clicks": "143",
+            "installs": "40",
+            "click_conversion_rate": "0.2797",
+            "reattributions": "0",
+            "sessions": "128",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "107",
+            "waus": "1050",
+            "maus": "1144"
+        }
+    },
+    {
+        "name": "Mobio",
+        "kpis": {
+            "clicks": "0",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "8",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "8",
+            "waus": "43",
+            "maus": "307"
+        }
+    },
+    {
+        "name": "Promorich2",
+        "kpis": {
+            "clicks": "0",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "45",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "42",
+            "waus": "787",
+            "maus": "2434"
+        }
+    },
+    {
+        "name": "Off-Facebook Installs",
+        "kpis": {
+            "clicks": "0",
+            "installs": "0",
+            "click_conversion_rate": "0",
+            "reattributions": "0",
+            "sessions": "0",
+            "revenue_events": "0",
+            "revenues": "0",
+            "daus": "0",
+            "waus": "15",
+            "maus": "26"
+        }
+    }
+]

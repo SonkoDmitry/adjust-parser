@@ -1,0 +1,37 @@
+{
+    "name": "SonkoDmitry/adjust-parser",
+    "description": "Parse adjust statistics",
+    "keywords": [
+        "yii2",
+        "framework",
+        "adjust"
+    ],
+    "homepage": "https://www.adjust.com/",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "^2.0"
+    },
+    "minimum-stability": "stable",
+    "scripts": {
+        "post-install-cmd": [
+            "yii\\composer\\Installer::postCreateProject"
+        ],
+        "post-update-cmd": [
+            "yii\\composer\\Installer::postCreateProject"
+        ]
+    },
+    "extra": {
+        "writable": [
+            "runtime",
+            "storage"
+        ],
+        "executable": [
+            "yii"
+        ]
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
